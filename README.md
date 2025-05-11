@@ -2,7 +2,7 @@
 
 ## Kaze Icon Set
 
-Kaze i a smooth, modern icon set with a twist!
+Kaze a smooth, modern icon set with a twist!
 
 Current set of icons:
 
