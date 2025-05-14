@@ -4,8 +4,8 @@
 <g filter="url(#filter0_d_7_308)">
 <path d="M88 32C94.6274 32 100 37.3726 100 44V56H88V32Z" fill="url(#paint1_linear_7_308)"/>
 <path d="M28 44C28 37.3726 33.3726 32 40 32V56H28V44Z" fill="url(#paint2_linear_7_308)"/>
-<rect x="24" y="48" width="16" height="48" rx="8" fill="url(#paint3_linear_7_308)"/>
-<rect x="88" y="48" width="16" height="48" rx="8" fill="url(#paint4_linear_7_308)"/>
+<path d="M24 60.8C24 53.7308 29.7308 48 36.8 48C38.5673 48 40 49.4327 40 51.2V92.8C40 94.5673 38.5673 96 36.8 96C29.7308 96 24 90.2692 24 83.2V60.8Z" fill="url(#paint3_linear_7_308)"/>
+<path d="M88 51.2C88 49.4327 89.4327 48 91.2 48C98.2692 48 104 53.7308 104 60.8V83.2C104 90.2692 98.2692 96 91.2 96C89.4327 96 88 94.5673 88 92.8V51.2Z" fill="url(#paint4_linear_7_308)"/>
 <rect x="40" y="32" width="48" height="12" fill="url(#paint5_linear_7_308)"/>
 <rect x="42" y="67" width="44" height="8" fill="url(#paint6_linear_7_308)"/>
 <path d="M46 79L51.2547 64.9875C52.5524 61.5268 57.4476 61.5268 58.7453 64.9875L60.4166 69.4443C61.694 72.8507 66.4867 72.9215 67.8641 69.5544L69.7753 64.8826C71.1752 61.4605 76.0705 61.6068 77.2635 65.1064L82 79" stroke="url(#paint7_linear_7_308)" stroke-width="6" stroke-linecap="round"/>
