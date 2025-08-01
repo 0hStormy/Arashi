@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Kaze
 Comment=A smooth, modern icon set
-Inherits=breeze,Adwaita,hicolor
+Inherits=breeze,Adwaita,AdwaitaLegacy,hicolor
 
 Example=folder
 
