@@ -1,6 +1,7 @@
-![Kaze logo](logo.png)
-
-## Kaze Icon Set
+<center>
+    <img src="logo.png">
+    <h2>Kaze Icon Set</h2>
+</center>
 
 Kaze a smooth, modern icon set with a twist!
 
