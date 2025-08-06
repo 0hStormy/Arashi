@@ -7,7 +7,7 @@
 <path d="M64.5 79C73.0604 79 80 72.0604 80 63.5C80 54.9396 73.0604 48 64.5 48C55.9396 48 49 54.9396 49 63.5C49 72.0604 55.9396 79 64.5 79Z" stroke="url(#paint3_linear_46_2)" stroke-width="3.64706"/>
 </g>
 <defs>
-<filter id="filter0_d_46_2" x="3.88235" y="2.88232" width="121.235" height="121.235" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_46_2" x="3.88232" y="2.88235" width="121.235" height="121.235" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>
