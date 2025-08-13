@@ -51,12 +51,12 @@
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_84_20" result="shape"/>
 </filter>
 <linearGradient id="paint0_linear_84_20" x1="128" y1="63.0392" x2="-4.66007e-06" y2="64.991" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFBF33"/>
-<stop offset="1" stop-color="#00D0FF"/>
+<stop stop-color="#FFAE00"/>
+<stop offset="1" stop-color="#24D7FF"/>
 </linearGradient>
 <linearGradient id="paint1_linear_84_20" x1="64" y1="65.5" x2="65.3259" y2="4.02557e-06" gradientUnits="userSpaceOnUse">
 <stop stop-color="#E31587" stop-opacity="0"/>
-<stop offset="1" stop-color="#FF80C6"/>
+<stop offset="1" stop-color="#FF48AD"/>
 </linearGradient>
 <radialGradient id="paint2_radial_84_20" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(88 123.5) rotate(-126.87) scale(55)">
 <stop stop-color="#52FF90"/>
