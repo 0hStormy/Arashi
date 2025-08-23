@@ -1,6 +1,6 @@
 #!/bin/bash
 
-release="25.08.4"
+release="25.08.5"
 
 # Create copy of working directory for distribution
 mkdir "Arashi-${release}"
