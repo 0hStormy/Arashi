@@ -266,7 +266,7 @@
 <stop stop-color="#93E19F"/>
 <stop offset="1" stop-color="#93E19F" stop-opacity="0"/>
 </radialGradient>
-<radialGradient id="paint3_radial_94_56" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(89.9327 70.2593) rotate(117.326) scale(0.362402 0.660041)">
+<radialGradient id="paint3_radial_94_56" cx="0" cy="0" r="1" gradientTransform="matrix(-0.16636 0.321962 -0.586383 -0.302999 89.9327 70.2593)" gradientUnits="userSpaceOnUse">
 <stop stop-color="#93E19F"/>
 <stop offset="1" stop-color="#93E19F" stop-opacity="0"/>
 </radialGradient>

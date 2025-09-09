@@ -90,7 +90,7 @@
 <stop stop-color="#1C332C"/>
 <stop offset="1" stop-color="#285227"/>
 </linearGradient>
-<radialGradient id="paint6_radial_12_9" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(76.5931 42.3428) rotate(85.6979) scale(16.9752 14.8779)">
+<radialGradient id="paint6_radial_12_9" cx="0" cy="0" r="1" gradientTransform="matrix(1.27339 16.9274 -14.8894 0.406142 76.5931 42.3428)" gradientUnits="userSpaceOnUse">
 <stop stop-color="#BBD94F"/>
 <stop offset="1" stop-color="#BBD94F" stop-opacity="0"/>
 </radialGradient>
@@ -99,7 +99,7 @@
 <stop offset="0.5" stop-color="#366034"/>
 <stop offset="1" stop-color="#467636"/>
 </linearGradient>
-<radialGradient id="paint8_radial_12_9" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(60.5366 34.9326) rotate(141.757) scale(11.2498 11.5874)">
+<radialGradient id="paint8_radial_12_9" cx="0" cy="0" r="1" gradientTransform="matrix(-8.83552 6.96365 -14.2464 -3.5255 60.5366 34.9326)" gradientUnits="userSpaceOnUse">
 <stop stop-color="#BBD94F"/>
 <stop offset="1" stop-color="#BBD94F" stop-opacity="0"/>
 </radialGradient>
