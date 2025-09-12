@@ -123,8 +123,8 @@
 <stop offset="1" stop-color="#924D9F"/>
 </linearGradient>
 <linearGradient id="paint2_linear_47_16" x1="64" y1="8" x2="64" y2="120" gradientUnits="userSpaceOnUse">
-<stop stop-color="#2B4662"/>
-<stop offset="1" stop-color="#121D2A"/>
+<stop stop-color="#203245"/>
+<stop offset="1" stop-color="#080E14"/>
 </linearGradient>
 <linearGradient id="paint3_linear_47_16" x1="65.8406" y1="29" x2="65.8406" y2="64.896" gradientUnits="userSpaceOnUse">
 <stop stop-color="#A8FFFB"/>
