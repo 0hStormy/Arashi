@@ -1,8 +1,18 @@
 <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs id="defs3051">
+<style type="text/css" id="current-color-scheme">
+    .ColorScheme-Accent {
+        color: #78B3FF;
+    }
+    </style>
+</defs>
+<path d="M28.25 2H9C6.79086 2 5 3.79086 5 6V58C5 60.2091 6.79086 62 9 62H55C57.2091 62 59 60.2091 59 58V13.5C59 11.2909 57.2091 9.5 55 9.5H35.75C33.6789 9.5 32 7.82107 32 5.75C32 3.67893 30.3211 2 28.25 2Z" class="ColorScheme-Accent" style="fill:currentColor"/>
 <path d="M28.25 2H9C6.79086 2 5 3.79086 5 6V58C5 60.2091 6.79086 62 9 62H55C57.2091 62 59 60.2091 59 58V13.5C59 11.2909 57.2091 9.5 55 9.5H35.75C33.6789 9.5 32 7.82107 32 5.75C32 3.67893 30.3211 2 28.25 2Z" fill="url(#paint0_linear_4_8)"/>
+<rect x="2" y="17" width="60" height="45" rx="4" class="ColorScheme-Accent" style="fill:currentColor"/>
 <rect x="2" y="17" width="60" height="45" rx="4" fill="url(#paint1_linear_4_8)"/>
 <g clip-path="url(#clip0_4_8)" filter="url(#filter0_i_4_8)">
-<path d="M26.1406 32C24.1951 32 22.625 33.5701 22.625 35.5156V43.7188C22.625 45.6642 24.1951 47.2344 26.1406 47.2344H37.8594C39.8049 47.2344 41.375 45.6642 41.375 43.7188V35.5156C41.375 33.5701 39.8049 32 37.8594 32H26.1406ZM26.1406 34.3438H37.8594C38.5094 34.3438 39.0312 34.8656 39.0312 35.5156V43.7188C39.0312 44.3688 38.5094 44.8906 37.8594 44.8906H26.1406C25.4906 44.8906 24.9688 44.3688 24.9688 43.7188V35.5156C24.9688 34.8656 25.4906 34.3438 26.1406 34.3438ZM28.4844 48.4062C27.1889 48.4062 26.1406 49.4545 26.1406 50.75H37.8594C37.8594 49.4545 36.8111 48.4062 35.5156 48.4062H28.4844Z" fill="#204C86"/>
+<path d="M26.1406 32C24.1951 32 22.625 33.5701 22.625 35.5156V43.7188C22.625 45.6642 24.1951 47.2344 26.1406 47.2344H37.8594C39.8049 47.2344 41.375 45.6642 41.375 43.7188V35.5156C41.375 33.5701 39.8049 32 37.8594 32H26.1406ZM26.1406 34.3438H37.8594C38.5094 34.3438 39.0312 34.8656 39.0312 35.5156V43.7188C39.0312 44.3688 38.5094 44.8906 37.8594 44.8906H26.1406C25.4906 44.8906 24.9688 44.3688 24.9688 43.7188V35.5156C24.9688 34.8656 25.4906 34.3438 26.1406 34.3438ZM28.4844 48.4062C27.1889 48.4062 26.1406 49.4545 26.1406 50.75H37.8594C37.8594 49.4545 36.8111 48.4062 35.5156 48.4062H28.4844Z" class="ColorScheme-Accent" style="fill:currentColor"/>
+<path d="M26.1406 32C24.1951 32 22.625 33.5701 22.625 35.5156V43.7188C22.625 45.6642 24.1951 47.2344 26.1406 47.2344H37.8594C39.8049 47.2344 41.375 45.6642 41.375 43.7188V35.5156C41.375 33.5701 39.8049 32 37.8594 32H26.1406ZM26.1406 34.3438H37.8594C38.5094 34.3438 39.0312 34.8656 39.0312 35.5156V43.7188C39.0312 44.3688 38.5094 44.8906 37.8594 44.8906H26.1406C25.4906 44.8906 24.9688 44.3688 24.9688 43.7188V35.5156C24.9688 34.8656 25.4906 34.3438 26.1406 34.3438ZM28.4844 48.4062C27.1889 48.4062 26.1406 49.4545 26.1406 50.75H37.8594C37.8594 49.4545 36.8111 48.4062 35.5156 48.4062H28.4844Z" fill="black" fill-opacity="0.5"/>
 </g>
 <defs>
 <filter id="filter0_i_4_8" x="22.625" y="32" width="18.75" height="22.75" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -15,16 +25,16 @@
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_4_8"/>
 </filter>
-<linearGradient id="paint0_linear_4_8" x1="32" y1="2" x2="32" y2="17" gradientUnits="userSpaceOnUse">
-<stop stop-color="#558ACF"/>
-<stop offset="1" stop-color="#2E67B2"/>
+<linearGradient id="paint0_linear_4_8" x1="32" y1="2" x2="32" y2="62" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0"/>
+<stop offset="0.307692" stop-opacity="0.4"/>
 </linearGradient>
 <linearGradient id="paint1_linear_4_8" x1="32" y1="17" x2="32" y2="62" gradientUnits="userSpaceOnUse">
-<stop stop-color="#78B3FF"/>
-<stop offset="1" stop-color="#406EAC"/>
+<stop stop-opacity="0"/>
+<stop offset="1" stop-opacity="0.4"/>
 </linearGradient>
 <clipPath id="clip0_4_8">
-<rect width="18.75" height="18.75" fill="white" transform="translate(22.625 32)"/>
+<rect width="18.75" height="18.75" class="ColorScheme-Accent" style="fill:currentColor" transform="translate(22.625 32)"/>
 </clipPath>
 </defs>
 </svg>

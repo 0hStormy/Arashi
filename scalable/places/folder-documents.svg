@@ -1,9 +1,19 @@
 <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs id="defs3051">
+<style type="text/css" id="current-color-scheme">
+    .ColorScheme-Accent {
+        color: #78B3FF;
+    }
+    </style>
+</defs>
+<path d="M28.25 2H9C6.79086 2 5 3.79086 5 6V58C5 60.2091 6.79086 62 9 62H55C57.2091 62 59 60.2091 59 58V13.5C59 11.2909 57.2091 9.5 55 9.5H35.75C33.6789 9.5 32 7.82107 32 5.75C32 3.67893 30.3211 2 28.25 2Z" class="ColorScheme-Accent" style="fill:currentColor"/>
 <path d="M28.25 2H9C6.79086 2 5 3.79086 5 6V58C5 60.2091 6.79086 62 9 62H55C57.2091 62 59 60.2091 59 58V13.5C59 11.2909 57.2091 9.5 55 9.5H35.75C33.6789 9.5 32 7.82107 32 5.75C32 3.67893 30.3211 2 28.25 2Z" fill="url(#paint0_linear_4_3)"/>
+<rect x="2" y="17" width="60" height="45" rx="4" class="ColorScheme-Accent" style="fill:currentColor"/>
 <rect x="2" y="17" width="60" height="45" rx="4" fill="url(#paint1_linear_4_3)"/>
 <g clip-path="url(#clip0_4_3)">
 <g filter="url(#filter0_i_4_3)">
-<path d="M27.7812 28.25C25.4686 28.25 23.5625 30.1561 23.5625 32.4688V45.125C23.5625 47.4376 25.4686 49.3438 27.7812 49.3438H36.2188C38.5314 49.3438 40.4375 47.4376 40.4375 45.125V34.5781C40.4375 34.2046 40.2892 33.8475 40.0255 33.5839L35.1036 28.662C34.84 28.3983 34.4829 28.25 34.1094 28.25H27.7812ZM27.7812 31.0625H33.4062V33.1719C33.4062 34.5781 34.1094 35.2812 35.5156 35.2812H37.625V45.125C37.625 45.927 37.0208 46.5312 36.2188 46.5312H27.7812C26.9792 46.5312 26.375 45.927 26.375 45.125V32.4688C26.375 31.6667 26.9792 31.0625 27.7812 31.0625Z" fill="#204C86"/>
+<path d="M27.7812 28.25C25.4686 28.25 23.5625 30.1561 23.5625 32.4688V45.125C23.5625 47.4376 25.4686 49.3438 27.7812 49.3438H36.2188C38.5314 49.3438 40.4375 47.4376 40.4375 45.125V34.5781C40.4375 34.2046 40.2892 33.8475 40.0255 33.5839L35.1036 28.662C34.84 28.3983 34.4829 28.25 34.1094 28.25H27.7812ZM27.7812 31.0625H33.4062V33.1719C33.4062 34.5781 34.1094 35.2812 35.5156 35.2812H37.625V45.125C37.625 45.927 37.0208 46.5312 36.2188 46.5312H27.7812C26.9792 46.5312 26.375 45.927 26.375 45.125V32.4688C26.375 31.6667 26.9792 31.0625 27.7812 31.0625Z" class="ColorScheme-Accent" style="fill:currentColor"/>
+<path d="M27.7812 28.25C25.4686 28.25 23.5625 30.1561 23.5625 32.4688V45.125C23.5625 47.4376 25.4686 49.3438 27.7812 49.3438H36.2188C38.5314 49.3438 40.4375 47.4376 40.4375 45.125V34.5781C40.4375 34.2046 40.2892 33.8475 40.0255 33.5839L35.1036 28.662C34.84 28.3983 34.4829 28.25 34.1094 28.25H27.7812ZM27.7812 31.0625H33.4062V33.1719C33.4062 34.5781 34.1094 35.2812 35.5156 35.2812H37.625V45.125C37.625 45.927 37.0208 46.5312 36.2188 46.5312H27.7812C26.9792 46.5312 26.375 45.927 26.375 45.125V32.4688C26.375 31.6667 26.9792 31.0625 27.7812 31.0625Z" fill="black" fill-opacity="0.5"/>
 </g>
 </g>
 <defs>
@@ -17,16 +27,16 @@
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_4_3"/>
 </filter>
-<linearGradient id="paint0_linear_4_3" x1="32" y1="2" x2="32" y2="17" gradientUnits="userSpaceOnUse">
-<stop stop-color="#558ACF"/>
-<stop offset="1" stop-color="#2E67B2"/>
+<linearGradient id="paint0_linear_4_3" x1="32" y1="2" x2="32" y2="62" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0"/>
+<stop offset="0.307692" stop-opacity="0.4"/>
 </linearGradient>
 <linearGradient id="paint1_linear_4_3" x1="32" y1="17" x2="32" y2="62" gradientUnits="userSpaceOnUse">
-<stop stop-color="#78B3FF"/>
-<stop offset="1" stop-color="#406EAC"/>
+<stop stop-opacity="0"/>
+<stop offset="1" stop-opacity="0.4"/>
 </linearGradient>
 <clipPath id="clip0_4_3">
-<rect width="22.5" height="22.5" fill="white" transform="translate(20.75 27.3125)"/>
+<rect width="22.5" height="22.5" class="ColorScheme-Accent" style="fill:currentColor" transform="translate(20.75 27.3125)"/>
 </clipPath>
 </defs>
 </svg>
