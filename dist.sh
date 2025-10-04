@@ -8,6 +8,8 @@ rsync -av --progress ./ "Arashi-${release}/" --exclude "Arashi-${release}" # Cop
 
 # Remove non-essential files/folders
 cd "Arashi-${release}"
+rm apps.png
+rm places.png
 rm -rf .git # Has to be -rf to remove protected objects made by git
 rm -r .github
 rm -r dist.sh
