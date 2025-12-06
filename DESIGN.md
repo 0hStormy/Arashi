@@ -1,12 +1,17 @@
 [backgroundbox]: .github/template.png
 [dosanddonts]: .github/dosanddonts.png
 [glyph]: .github/jellyfin.png
+[camera]: .github/camera.png
 
 # Arashi Design Guidelines
 
 **These Guidelines are still in-progress and aren't used by Arashi yet!**
 
 If you want to make icons for Arashi, there are some guidelines to follow to make a good looking icon. While the guidelines aren't super strict, you should still folow them to maintain icon quality.
+
+# General App Guidelines
+
+These guidelines apply to all apps, no matter if they are branded (Ex: Discord, OBS, Firefox) or not branded (Ex: Camera, Settings, Software Center).
 
 ## Background Box
 
@@ -35,7 +40,13 @@ All background boxes should fit these proportions:
 | 32px      | 2px          | 4px           |
 | 64px      | 4px          | 8px           |
 
+Background box example:
+
 ![Background box sizes][backgroundbox]
+
+# Branded Apps
+
+These guidelines mainly apply to branded apps (Ex: Discord, OBS, Firefox).
 
 ## Glyph/Icon
 
@@ -65,3 +76,20 @@ Glyphs should also have a shadow of `#000000` at 50% opacity, they also should h
 Glyph Example:
 
 ![Glyphs][glyph]
+
+# Non-Branded Apps
+
+Non-Branded apps such as a software center or clock icon can be a bit more flexable with how they look. Make sure things are still proportionate and you're following the background box guidelines.
+
+An app can be considered Non-Branded if it does these couple things:
+1. Can be represented with a generic icon
+2. Doesn't have a super unique icon
+3. The app's icon already ties around its purpose
+
+Non-Branded apps should try to replicate the apps use as an icon as best as possible, so if it's a camera app, make it a camera.
+
+Make sure to still follow the shadow/glow proportions where applicable.
+
+Example:
+
+![Non-Branded Example][camera]
