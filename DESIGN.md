@@ -4,7 +4,7 @@
 
 # Arashi Design Guidelines
 
-**These Guidelines are still in-progress and aren't sued by Arashi yet!**
+**These Guidelines are still in-progress and aren't used by Arashi yet!**
 
 If you want to make icons for Arashi, there are some guidelines to follow to make a good looking icon. While the guidelines aren't super strict, you should still folow them to maintain icon quality.
 
