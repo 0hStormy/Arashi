@@ -1,3 +1,5 @@
+# Arashi has moved off GitHub: https://git.0stormy.xyz/stormy/Arashi
+
 <center>
     <img src="logo.png">
     <h2>Arashi Icon Set</h2>
